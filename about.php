@@ -1,1 +1,1 @@
-"this is about me, and i'm lerning git" 
+"i'm getting really good at this" 
